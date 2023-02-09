@@ -1,0 +1,476 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/TVE.png",LA 1 HD
+http://45.149.182.166:8001/1:0:19:7863:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png",LA 2
+http://45.149.182.166:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png",ANTENA 3 HD
+http://45.149.182.166:8001/1:0:19:7534:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png",CUATRO HD
+http://45.149.182.166:8001/1:0:19:7535:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png",TELECINCO HD
+http://45.149.182.166:8001/1:0:19:7536:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/SEXTA.png",LA SEXTA HD
+http://45.149.182.166:8001/1:0:19:7537:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1024px-TeleMadrid.svg.png" tvg-ID="Telemadrid.es",Telemadrid
+http://88.2.252.74:8001/1:0:1:1A5:1838:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/OTRA.png",La Otra
+http://88.2.252.74:8001/1:0:1:1A6:1838:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-logo="https://d1x5x35que3u9g.cloudfront.net/uploads/novanet/GestorContenidos/00100_0001003170_1_logo8madrid.png",8Madrid
+http://88.2.252.74:8001/1:0:1:F3D:27:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-logo="http://www.polvorafilms.es/img/movistar.png",::MOVISTAR+::
+http://45.149.182.166:8001/1:0:1:75C6:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png",M+ #0 HD
+http://45.149.182.166:8001/1:0:19:788C:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/VAMOSD.png",M+ #VAMOS HD
+http://45.149.182.166:8001/1:0:19:7508:420:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEPORTE
+http://45.149.182.166:8001/1:0:1:76A3:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="http://www.polvorafilms.es/img/movistar.png",::SERIES::
+http://45.149.182.166:8001/1:64:3:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aSERIES y ENTRETENIMIENTO%3a%3a
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png",M+ SERIES HD
+http://45.149.182.166:8001/1:0:19:78B6:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPSER.png",M+ SERIES 2 HD
+http://45.149.182.166:8001/1:0:19:7882:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/FOXGE.png",FOX HD
+http://45.149.182.166:8001/1:0:19:7504:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png",AXN HD
+http://45.149.182.166:8001/1:0:19:7856:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png",TNT HD
+http://45.149.182.166:8001/1:0:19:7888:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/PCM.png",COMEDY CENTRAL HD
+http://45.149.182.166:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CL13.png",CALLE 13 HD
+http://45.149.182.166:8001/1:0:19:7824:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png",COSMO HD
+http://45.149.182.166:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png",AMC HD
+http://45.149.182.166:8001/1:0:19:7533:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="",FOX LIFE HD
+http://45.149.182.166:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png",AXN WHITE HD
+http://45.149.182.166:8001/1:0:19:78BE:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/SCI-FI.png",SYFY HD
+http://45.149.182.166:8001/1:0:19:7825:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MTV.png",MTV ESPAÑA HD
+http://45.149.182.166:8001/1:0:1:74A2:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/FDFIC.png",Factoría de Ficción
+http://45.149.182.166:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/NEOX.png",NEOX
+http://45.149.182.166:8001/1:0:1:75FE:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ENERGY.png",ENERGY
+http://45.149.182.166:8001/1:0:1:749F:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="http://www.polvorafilms.es/img/movistar.png",::CINE::
+http://45.149.182.166:8001/1:64:4:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aCINE%3a%3a
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MSAGA.png",M+ SAGAS
+http://45.149.182.166:8001/1:0:1:749D:41C:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png",M+ ESTRENOS HD
+http://45.149.182.166:8001/1:0:19:7539:426:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MEST2.png",M+ ESTRENOS 2 HD   
+http://45.149.182.166:8001/1:0:19:74D4:3F8:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MCLAS.png",M+ Clásicos HD  
+http://45.149.182.166:8001/1:0:19:78BF:3EC:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png",M+ Acción HD
+http://45.149.182.166:8001/1:0:19:7509:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png",M+ COMEDIA HD
+http://45.149.182.166:8001/1:0:19:7857:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOLE.png",M+ DRAMA HD
+http://45.149.182.166:8001/1:0:19:750B:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/DCESP.png",M+ Cine Español
+http://45.149.182.166:8001/1:0:1:7736:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MONFIR.png",M+ Fest HD
+http://45.149.182.166:8001/1:0:19:74FF:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/TCM.png",TCM HD
+http://45.149.182.166:8001/1:0:19:7885:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png",CANAL HOLLYWOOD HD
+http://45.149.182.166:8001/1:0:19:750C:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/SUNDAN.png",SUNDANCE TV
+http://45.149.182.166:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/PARCH.png",Paramount Network
+http://45.149.182.166:8001/1:0:1:756B:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/BEMAD.png",BE MAD
+http://45.149.182.166:8001/1:0:1:74A8:41C:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png",XTRM
+http://83.213.121.105:8001/1:0:1:442:1F4:A041:FFFF0000:0:0:0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png",SOMOS
+http://83.213.121.105:8001/1:0:1:514:7D1:A041:FFFF0000:0:0:0
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DARK.png",DARK
+http://83.213.121.105:8001/1:0:1:44C:1F4:A041:FFFF0000:0:0:0
+
+#EXTINF:-1 tvg-logo="http://www.polvorafilms.es/img/movistar.png",::DEPORTES::
+http://45.149.182.166:8001/1:64:6:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aDEPORTES%3a%3a
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png",M+ LALIGA HD
+http://45.149.182.166:8001/1:0:19:750F:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png",M+ LALIGA 2 HD
+http://45.149.182.166:8001/1:0:19:7853:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png",M+ LALIGA 3 HD
+http://45.149.182.166:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png",M+ LALIGA 4 HD
+http://45.149.182.166:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png",M+ LIGA DE CAMPEONES HD
+http://45.149.182.166:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP1.png",M+ LIGA DE CAMPEONES 2
+http://45.149.182.166:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP2.png",M+ LIGA DE CAMPEONES 3
+http://45.149.182.166:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png",M+ DEPORTES HD
+http://45.149.182.166:8001/1:0:19:7828:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png",M+ DEPORTES 2
+http://45.149.182.166:8001/1:0:19:7532:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/USOP2.png",M+ DEPORTES 3
+http://45.149.182.166:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/USOP3.png",M+ DEPORTES 4
+http://45.149.182.166:8001/1:0:1:77BF:40A:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png",DAZN LALIGA HD
+http://45.149.182.166:8001/1:0:19:7884:414:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png",DAZN LALIGA 2 HD
+http://45.149.182.166:8001/1:0:19:74CE:3F8:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/M1SD.png",DAZN 1 HD
+http://45.149.182.166:8001/1:0:19:7855:41A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/M2SD.png",DAZN 2 HD
+http://45.149.182.166:8001/1:0:19:785F:41A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png",DAZN F1 HD
+http://45.149.182.166:8001/1:0:19:7531:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png",LaLiga SmartbankTV HD
+http://45.149.182.166:8001/1:0:19:74D6:3F8:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png",LaLiga SmartbankTV 2 HD
+http://45.149.182.166:8001/1:0:19:74D8:3F8:1:C00000:0:0:0
+
+#EXTINF:-1 tvg-logo="",M+ GOLF HD
+http://45.149.182.166:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png",EUROSPORT 1 HD
+http://45.149.182.166:8001/1:0:19:7826:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP2.png",EUROSPORT 2
+http://45.149.182.166:8001/1:0:1:74A7:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png",GOL PLAY
+http://45.149.182.166:8001/1:0:1:74A3:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GMUNDI.png",GOL MUNDIAL
+http://45.149.182.166:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GMUNDI.png",GOL MUNDIAL 2
+http://45.149.182.166:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/TDEP.png",TELEDEPORTE
+http://45.149.182.166:8001/1:0:1:76CC:40E:1:C00000:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png",CAZA y PESCA HD
+http://45.149.182.166:8001/1:0:19:788D:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png",IBERALIA TV
+http://45.149.182.166:8001/1:0:1:746A:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png",TOROS HD
+http://45.149.182.166:8001/1:0:19:782D:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png",REAL MADRID TV
+http://45.149.182.166:8001/1:0:1:7601:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png",BARÇA TV
+http://45.149.182.166:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="http://www.polvorafilms.es/img/movistar.png",::Documentales::
+http://45.149.182.166:8001/1:64:7:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aDocumentales%3a%3a
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/NATGEO.png",National Geographic HD
+http://45.149.182.166:8001/1:0:19:7829:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/NATGW.png",Nat Geo Wild HD
+http://45.149.182.166:8001/1:0:19:7889:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/HIST.png",HISTORIA
+http://45.149.182.166:8001/1:0:1:7731:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/DCR.png",DISCOVERY
+http://45.149.182.166:8001/1:0:1:772F:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ODISEA.png",ODISEA
+http://45.149.182.166:8001/1:0:1:778A:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/BIOGRA.png",AMC BREAK
+http://45.149.182.166:8001/1:0:1:772D:416:1:C00000:0:0:0:
+#EXTINF:-1,VIAJAR 
+http://45.149.182.166:8001/1:0:19:7884:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CYM.png",AMC CRIME
+http://45.149.182.166:8001/1:0:1:7732:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="http://www.polvorafilms.es/img/movistar.png",::LIFE STYLE:::
+http://45.149.182.166:8001/1:64:8:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aLIFE STYLE%3a%3a%3a
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CACOC.png",CANAL COCINA
+http://45.149.182.166:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png",DECASA
+http://45.149.182.166:8001/1:0:1:7795:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png",DIVINITY
+http://45.149.182.166:8001/1:0:1:749A:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/NOVA.png",NOVA
+http://45.149.182.166:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="",CANAL ORBE21
+http://45.149.182.166:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="http://www.polvorafilms.es/img/movistar.png",::INFANTILES::
+http://45.149.182.166:8001/1:64:9:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aINFANTILES%3a%3a
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/BABY.png",BABY TV
+http://45.149.182.166:8001/1:0:1:749C:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png",DISNEY JR
+http://45.149.182.166:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/PANDA.png",CANAL PANDA
+http://45.149.182.166:8001/1:0:1:76C4:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/NICKJR.png",NICK JR
+http://45.149.182.166:8001/1:0:1:7697:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/NICK.png",NICKELODEONHD
+http://45.149.182.166:8001/1:0:19:7820:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/DWSP.png",DreamWorks HD
+http://45.149.182.166:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png",DISNEY CH HD
+http://45.149.182.166:8001/1:0:19:788B:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/BOING.png",BOING
+http://45.149.182.166:8001/1:0:1:749E:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CLANTV.png",CLAN  TVE
+http://45.149.182.166:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="http://www.polvorafilms.es/img/movistar.png",::MUSICA::
+http://45.149.182.166:8001/1:64:A:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aMUSICA%3a%3a
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/VH1.png",MTV 00S
+http://45.149.182.166:8001/1:0:1:6FF0:436:1:C00000:0:0:0:
+#EXTINF:-1,MTV ROCKS
+http://45.149.182.166:8001/1:0:1:6FF3:436:1:C00000:0:0:0:
+#EXTINF:-1,MEZZO
+http://45.149.182.166:8001/1:0:1:7699:41E:1:C00000:0:0:0:
+#EXTINF:-1,MEZZO LIVE HD
+http://45.149.182.166:8001/1:0:19:7823:428:1:C00000:0:0:0:
+#EXTINF:-1,CLASSICA
+http://45.149.182.166:8001/1:0:1:7602:408:1:C00000:0:0:0:
+#EXTINF:-1,RADIOS
+http://45.149.182.166:8001/1:0:1:7596:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="http://www.polvorafilms.es/img/movistar.png",::ADULTOS:::
+http://45.149.182.166:8001/1:64:B:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aADULTOS%3a%3a%3a
+#EXTINF:-1,PLAYBOY TV
+http://45.149.182.166:8001/1:0:1:778B:424:1:C00000:0:0:0:
+#EXTINF:-1,Venus
+http://176.79.151.51:8001/1:0:1:D5:66:53:CE40000:0:0:0:
+#EXTINF:-1 tvg-ID="PlayboyTV.es",PLAYBOY TV
+http://185.105.37.114:8001/1:0:1:778B:424:1:C00000:0:0:0:
+#EXTINF:-1,Venus
+http://176.79.151.51:8001/1:0:1:D5:66:53:CE40000:0:0:0:
+#EXTINF:-1,HOT
+http://176.79.151.51:8001/1:0:1:139A:30:36:CE40000:0:0:0:
+#EXTINF:0,BRAZERS TV EUROPE
+http://88.156.21.109:8001/1:0:1:1D25:2FA8:13E:820000:0:0:0:
+#EXTINF:0,HUSTLER HD
+http://88.156.21.109:8001/1:0:19:4220:2F44:13E:820000:0:0:0:
+#EXTINF:0,VIVID RED HD
+http://88.156.21.109:8001/1:0:1:4267:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-logo="",Redlight HD
+http://88.156.21.109:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-logo="",Dorcel TV HD
+http://88.156.21.109:8001/1:0:1:4205:2F44:13E:820000:0:0:0:
+
+#EXTINF:-1,Redlight HD
+http://88.156.21.109:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:
+#EXTINF:-1,Dorcel TV HD
+http://88.156.21.109:8001/1:0:1:4205:2F44:13E:820000:0:0:0:
+#EXTINF:-1,::Informativos/Internacionales::
+http://45.149.182.166:8001/1:64:C:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aInformativos/Internacionales%3a%3a
+#EXTINF:-1,24 HORAS
+http://45.149.182.166:8001/1:0:1:7738:416:1:C00000:0:0:0:
+#EXTINF:-1,BBC World News Europe HD
+http://45.149.182.166:8001/1:0:19:1389:3EA:1:C00000:0:0:0:
+#EXTINF:-1,CNN Int.
+http://45.149.182.166:8001/1:0:1:1146:404:1:C00000:0:0:0:
+#EXTINF:-1,FOX NEWS
+http://45.149.182.166:8001/1:0:1:749B:41C:1:C00000:0:0:0:
+#EXTINF:-1,EURONEWS FRENCH SD
+http://45.149.182.166:8001/1:0:1:79F4:443:1:C00000:0:0:0:
+#EXTINF:-1,Al Jazeera English
+http://45.149.182.166:8001/1:0:1:1158:404:1:C00000:0:0:0:
+#EXTINF:-1,France 24 (in English)
+http://45.149.182.166:8001/1:0:1:1AFA:3FE:1:C00000:0:0:0:
+#EXTINF:-1,RT Esp HD
+http://45.149.182.166:8001/1:0:19:18F8:3F4:1:C00000:0:0:0:
+#EXTINF:-1,CNBC Europe
+http://45.149.182.166:8001/1:0:1:272E:402:1:C00000:0:0:0:
+#EXTINF:-1,TV5MONDE EUROPE
+http://45.149.182.166:8001/1:0:1:1B03:3FE:1:C00000:0:0:0:
+#EXTINF:-1,Bloomberg Europe TV
+http://45.149.182.166:8001/1:0:1:2753:402:1:C00000:0:0:0:
+#EXTINF:-1,Sky News Intl
+http://45.149.182.166:8001/1:0:1:1C7A:457:1:C00000:0:0:0:
+#EXTINF:-1,Russia Today
+http://45.149.182.166:8001/1:0:1:1AF8:3FE:1:C00000:0:0:0:
+#EXTINF:-1,RT France HD
+http://45.149.182.166:8001/1:0:19:18EF:3F4:1:C00000:0:0:0:
+#EXTINF:-1,arte
+http://45.149.182.166:8001/1:0:1:7034:41B:1:C00000:0:0:0:
+#EXTINF:-1,I24 Francis
+http://45.149.182.166:8001/1:0:1:7A4B:410:1:C00000:0:0:0:
+#EXTINF:-1,France 24 (en Français)
+http://45.149.182.166:8001/1:0:1:1AF9:3FE:1:C00000:0:0:0:
+#EXTINF:-1,France 24 (in Arabic)
+http://45.149.182.166:8001/1:0:1:1AFE:3FE:1:C00000:0:0:0:
+#EXTINF:-1,:::::LATINOS:::
+http://45.149.182.166:8001/1:64:D:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aLATINOS%3a%3a%3a
+#EXTINF:-1,TV Record
+http://45.149.182.166:8001/1:0:1:7A45:410:1:C00000:0:0:0:
+#EXTINF:-1,Cubavision Internacional
+http://45.149.182.166:8001/1:0:1:1B60:3FC:1:C00000:0:0:0:
+#EXTINF:-1,TELESUR HD
+http://45.149.182.166:8001/1:0:19:18EC:3F4:1:C00000:0:0:0:
+#EXTINF:-1,TELESUR
+http://45.149.182.166:8001/1:0:1:7A48:410:1:C00000:0:0:0:
+#EXTINF:-1,:::::ASIATICOS:::
+http://45.149.182.166:8001/1:64:E:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aASIATICOS%3a%3a%3a
+#EXTINF:-1,Arirang TV
+http://45.149.182.166:8001/1:0:1:1B63:3FC:1:C00000:0:0:0:
+#EXTINF:-1,NHK WORLD-JPN
+http://45.149.182.166:8001/1:0:19:139D:3EA:1:C00000:0:0:0:
+#EXTINF:-1,:::::AUTONOMICAS::
+http://45.149.182.166:8001/1:64:F:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aAUTONOMICAS%3a%3a
+#EXTINF:-1,CANAL SUR A.
+http://45.149.182.166:8001/1:0:1:7729:416:1:C00000:0:0:0:
+#EXTINF:-1,TVGA
+http://45.149.182.166:8001/1:0:1:7A4A:410:1:C00000:0:0:0:
+#EXTINF:-1,EXTREMADURA SAT
+http://45.149.182.166:8001/1:0:19:18F0:3F4:1:C00000:0:0:0:
+#EXTINF:-1,ARAGON TV INT
+http://45.149.182.166:8001/1:0:1:75FD:408:1:C00000:0:0:0:
+#EXTINF:-1,:::::           :::
+http://45.149.182.166:8001/1:64:10:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a           %3a%3a%3a
+#EXTINF:-1,TBN Espana
+http://45.149.182.166:8001/1:0:1:7A49:410:1:C00000:0:0:0:
+#EXTINF:-1,SonLife Broadcasting Network
+http://45.149.182.166:8001/1:0:1:2760:402:1:C00000:0:0:0:
+#EXTINF:-1,:::::ALQUILER::
+http://45.149.182.166:8001/1:64:11:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aALQUILER%3a%3a
+#EXTINF:-1,ALQUILER
+http://45.149.182.166:8001/1:0:1:75B0:422:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER 1
+http://45.149.182.166:8001/1:0:1:768E:41E:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER 2
+http://45.149.182.166:8001/1:0:1:768F:41E:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER 3
+http://45.149.182.166:8001/1:0:1:7567:412:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER 4
+http://45.149.182.166:8001/1:0:1:756F:412:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER 5
+http://45.149.182.166:8001/1:0:1:7565:412:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER 6
+http://45.149.182.166:8001/1:0:1:7566:412:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER HD
+http://45.149.182.166:8001/1:0:19:7854:41A:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER 2 HD
+http://45.149.182.166:8001/1:0:19:785E:41A:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER X
+http://45.149.182.166:8001/1:0:1:7568:412:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER XX
+http://45.149.182.166:8001/1:0:1:7569:412:1:C00000:0:0:0:
+#EXTINF:-1,ALQ XXHARD
+http://45.149.182.166:8001/1:0:1:756A:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X
+http://45.149.182.166:8001/1:0:1:7562:412:1:C00000:0:0:0:
+#EXTINF:-1,ALQUILER XY
+http://45.149.182.166:8001/1:0:1:7695:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X (1)
+http://45.149.182.166:8001/1:0:1:7571:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X (2)
+http://45.149.182.166:8001/1:0:1:7563:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X (3)
+http://45.149.182.166:8001/1:0:1:7572:412:1:C00000:0:0:0:
+#EXTINF:-1,:::::LIGA123:::
+http://45.149.182.166:8001/1:64:12:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aLIGA123%3a%3a%3a
+#EXTINF:-1,LALIGA123TVM1
+http://45.149.182.166:8001/1:0:1:7578:412:1:C00000:0:0:0:
+#EXTINF:-1,LALIGA123TVM2
+http://45.149.182.166:8001/1:0:1:7574:412:1:C00000:0:0:0:
+#EXTINF:-1,LALIGA123TVM3
+http://45.149.182.166:8001/1:0:1:76A6:41E:1:C00000:0:0:0:
+#EXTINF:-1,:::BEIN LALIGA:::::
+http://45.149.182.166:8001/1:64:13:0:0:0:0:0:0:0::%3a%3a%3aBEIN LALIGA%3a%3a%3a%3a%3a
+#EXTINF:-1,BEINLALIGA2
+http://45.149.182.166:8001/1:0:19:7855:41A:1:C00000:0:0:0:
+#EXTINF:-1,BEINLALIGA3
+http://45.149.182.166:8001/1:0:1:7581:412:1:C00000:0:0:0:
+#EXTINF:-1,BEINLALIGA4
+http://45.149.182.166:8001/1:0:1:769B:41E:1:C00000:0:0:0:
+#EXTINF:-1,BEINLALIGA5
+http://45.149.182.166:8001/1:0:1:7579:412:1:C00000:0:0:0:
+#EXTINF:-1,BEINLALIGA6
+http://45.149.182.166:8001/1:0:1:757E:412:1:C00000:0:0:0:
+#EXTINF:-1,BEINLALIGA7
+http://45.149.182.166:8001/1:0:1:756E:412:1:C00000:0:0:0:
+#EXTINF:-1,BEINLALIGA8
+http://45.149.182.166:8001/1:0:1:7690:41E:1:C00000:0:0:0:
+#EXTINF:-1,:::LIGA CAMPEONES:::::
+http://45.149.182.166:8001/1:64:14:0:0:0:0:0:0:0::%3a%3a%3aLIGA CAMPEONES%3a%3a%3a%3a%3a
+#EXTINF:-1,M.LCAMPEON3
+http://45.149.182.166:8001/1:0:1:757F:412:1:C00000:0:0:0:
+#EXTINF:-1,M.LCAMPEON4
+http://45.149.182.166:8001/1:0:1:769D:41E:1:C00000:0:0:0:
+#EXTINF:-1,M.LCAMPEON5
+http://45.149.182.166:8001/1:0:1:757D:412:1:C00000:0:0:0:
+#EXTINF:-1,M.LCAMPEON6
+http://45.149.182.166:8001/1:0:1:757C:412:1:C00000:0:0:0:
+#EXTINF:-1,M.LCAMPEON7
+http://45.149.182.166:8001/1:0:1:7583:412:1:C00000:0:0:0:
+#EXTINF:-1,M.LCAMPEON8
+http://45.149.182.166:8001/1:0:1:7576:412:1:C00000:0:0:0:
+#EXTINF:-1,::::MULTIDEPORTE:::
+http://45.149.182.166:8001/1:64:15:0:0:0:0:0:0:0::%3a%3a%3a%3aMULTIDEPORTE%3a%3a%3a
+#EXTINF:-1,M. DEPORTES4
+http://45.149.182.166:8001/1:0:1:7575:412:1:C00000:0:0:0:
+#EXTINF:-1,M. DEPORTES5
+http://45.149.182.166:8001/1:0:1:7577:412:1:C00000:0:0:0:
+#EXTINF:-1,M. DEPORTES6
+http://45.149.182.166:8001/1:0:1:769E:41E:1:C00000:0:0:0:
+#EXTINF:-1,M. DEPORTES7
+http://45.149.182.166:8001/1:0:1:7693:41E:1:C00000:0:0:0:
+#EXTINF:-1,M.DEPORTES8
+http://45.149.182.166:8001/1:0:1:756C:412:1:C00000:0:0:0:
+#EXTINF:-1,:::::MULTIFUTBOL:::
+http://45.149.182.166:8001/1:64:16:0:0:0:0:0:0:0::%3a%3a%3a%3a%3aMULTIFUTBOL%3a%3a%3a
+#EXTINF:-1,MULTIFUT. 1
+http://45.149.182.166:8001/1:0:1:76A7:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEPORTE
+http://45.149.182.166:8001/1:0:1:7692:41E:1:C00000:0:0:0:
+#EXTINF:-1,::::::
+http://45.149.182.166:8001/1:64:17:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a
+#EXTINF:-1,PORTADA
+http://45.149.182.166:8001/1:0:1:75C6:422:1:C00000:0:0:0:
+#EXTINF:-1,GUÍA
+http://45.149.182.166:8001/1:0:1:75A9:422:1:C00000:0:0:0:
+#EXTINF:-1,TEST M1234
+http://45.149.182.166:8001/1:0:1:7691:41E:1:C00000:0:0:0:
+#EXTINF:-1,11038V SID 0x76c4
+http://45.149.182.166:8001/1:0:1:76C4:40E:1:C00000:0:0:0:
+
+#EXTINF:-1,iConcerts 
+#EXTVLCOPT:program=1709
+http://188.82.60.191:8001/1:0:1:6AD:43:36:FFFF0000:0:0:0:
+
+#EXTINF:-1,SPORT TV +
+#EXTVLCOPT:program=500
+http://188.82.60.191:8001/1:0:1:1F4:28:36:FFFF0000:0:0:0:
+#EXTINF:-1,Sport TV 1
+#EXTVLCOPT:program=870
+http://188.82.60.191:8001/1:0:1:366:2B:36:FFFF0000:0:0:0:
+#EXTINF:-1,Sport TV 2
+#EXTVLCOPT:program=301
+http://188.82.60.191:8001/1:0:1:12D:2B:36:FFFF0000:0:0:0:
+#EXTINF:-1,Sport TV 3
+#EXTVLCOPT:program=306
+http://188.82.60.191:8001/1:0:1:132:2B:36:FFFF0000:0:0:0:
+#EXTINF:-1,Sport TV 4
+#EXTVLCOPT:program=309
+http://188.82.60.191:8001/1:0:1:135:2B:36:FFFF0000:0:0:0:
+#EXTINF:-1,Sport TV 5
+#EXTVLCOPT:program=311
+http://188.82.60.191:8001/1:0:1:137:2B:36:FFFF0000:0:0:0:
+
+#EXTINF:-1 tvg-ID="NBA.pt" tvg-name="NBA",NBA TV
+http://188.82.60.191:8001/1:0:1:643:42:36:FFFF0000:0:0:0:
+#EXTINF:-1,Playboy TV HD
+http://188.82.60.191:8001/1:0:1:645:42:36:FFFF0000:0:0:0:
+#EXTINF:-1,Venus
+http://188.82.60.191:8001/1:0:1:25E:29:36:FFFF0000:0:0:0:
+#EXTINF:-1,Hot
+http://188.82.60.191:8001/1:0:1:682:25:36:FFFF0000:0:0:0:
+#EXTINF:-1,Hot HD
+http://188.82.60.191:8001/1:0:1:782:47:36:FFFF0000:0:0:0:
+#EXTINF:-1,Hot Taboo
+http://188.82.60.191:8001/1:0:1:1973:41:36:FFFF0000:0:0:0
+#EXTINF:-1,Hot Man
+http://188.82.60.191:8001/1:0:1:1972:41:36:FFFF0000:0:0:0
+
+#EXTINF:-1,Sextreme
+http://188.82.60.191:8001/1:0:1:3BB:41:36:FFFF0000:0:0:0:
+#EXTINF:-1,Penthouse HD 1
+http://188.82.60.191:8001/1:0:1:837:4C:36:FFFF0000:0:0:0:
